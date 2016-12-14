@@ -1,3 +1,0 @@
-<cfif IsDefined("Form.idUserInfo") Is True> 
-    <cfset idUserInfo= "#CreateUUID()#" />
-</cfif> 

@@ -21,7 +21,7 @@
 </div>
 <div class="maincontent">
 	<h1> News and Pupdates </h1>
-	<p>Lorem,Ips
+	<p>
 
     </p>
 
