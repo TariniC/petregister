@@ -1,0 +1,58 @@
+div.wrapper
+{
+	background-color: #F0E68C;
+	height: 350;
+	overflow: hidden;
+	position: fixed;
+	width: 100%;
+}
+div.header
+{
+	background-color: green;
+	font-size: small;
+	margin-bottom: 30px;
+}
+div.navigation
+{
+	background-color: orange;
+	float: left;
+	height: 320px;
+	margin-right: 0px;
+	width: 270px;
+}
+.navigation ul li
+{
+	list-style: none;
+	text-align: left;
+	text-decoration: none;
+	padding: 20px;
+
+}
+.navigation a{
+	text-decoration: none;
+	padding: 20px;
+}
+div.maincontent
+{
+	background-color: white;
+	color: green;
+	float: right; 
+	margin:40px;
+	height: 250px;
+	padding: 35px;
+	width: 870px;
+	position: relative;
+	top: -360px;
+}
+div.footer
+{
+	background-color: green;
+	clear: both;
+	height: 20px;
+	margin-bottom: 10px;
+	position: relative;
+	top:-350px;
+}
+
+
+
